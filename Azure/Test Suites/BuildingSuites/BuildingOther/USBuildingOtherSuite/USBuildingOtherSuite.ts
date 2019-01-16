@@ -44,7 +44,7 @@
    <testCaseLink>
       <guid>0b77792e-d044-4623-b218-d6f1384594ed</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Buildings/MyBuildings/BuildingOther/PaymentByCreditCardTest</testCaseId>
    </testCaseLink>
    <testCaseLink>
@@ -248,7 +248,7 @@
    <testCaseLink>
       <guid>6b4b3eac-5747-4ec5-9dc0-54b084a055c9</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Buildings/MyBuildings/BuildingOther/SubmitSurveyTest</testCaseId>
    </testCaseLink>
    <testCaseLink>

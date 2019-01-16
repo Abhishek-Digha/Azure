@@ -27,17 +27,7 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>QAS-US</profileName>
-            <runConfigurationData>
-               <entry>
-                  <key>remoteWebDriverType</key>
-                  <value>Selenium</value>
-               </entry>
-               <entry>
-                  <key>remoteWebDriverUrl</key>
-                  <value>http://localhost:1990/wd/hub</value>
-               </entry>
-            </runConfigurationData>
-            <runConfigurationId>Remote</runConfigurationId>
+            <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/BuildingSuites/BuildingOther/USBuildingOtherSuite/USBuildingOtherSuite</testSuiteEntity>
@@ -46,17 +36,7 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>QAS-US</profileName>
-            <runConfigurationData>
-               <entry>
-                  <key>remoteWebDriverType</key>
-                  <value>Selenium</value>
-               </entry>
-               <entry>
-                  <key>remoteWebDriverUrl</key>
-                  <value>http://localhost:1990/wd/hub</value>
-               </entry>
-            </runConfigurationData>
-            <runConfigurationId>Remote</runConfigurationId>
+            <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/BuildingSuites/BuildingNone/USBuildingNoneSuite/USBuildingNoneSuite</testSuiteEntity>

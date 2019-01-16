@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to add team member under base points.</description>
+   <name>BasePointCreditTeamAssignTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8ae865f-af73-4968-af81-9fc9825d6b38</testCaseGuid>
+</TestCaseEntity>

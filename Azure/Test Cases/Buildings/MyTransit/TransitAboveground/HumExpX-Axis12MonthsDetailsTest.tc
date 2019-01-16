@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the label for X-axis will have 12 months details including months name compare to today’s month and field for the score &amp; months.</description>
+   <name>HumExpX-Axis12MonthsDetailsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acb56b73-68a5-4c48-939d-d2dc6d0b6ac7</testCaseGuid>
+</TestCaseEntity>

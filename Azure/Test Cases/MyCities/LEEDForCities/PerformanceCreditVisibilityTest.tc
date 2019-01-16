@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check weather the performance credit is visible or not</description>
+   <name>PerformanceCreditVisibilityTest</name>
+   <tag>Check Performance Credit Visibility</tag>
+   <comment></comment>
+   <testCaseGuid>f475dca0-65e8-4472-a2cc-7e3e5b629f5f</testCaseGuid>
+</TestCaseEntity>

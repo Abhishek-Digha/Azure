@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to login with portfolio &amp; respective text for portfolio section.</description>
+   <name>LoginWithPortfolioTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b565f8b0-4643-42b6-995e-559d727a6540</testCaseGuid>
+</TestCaseEntity>

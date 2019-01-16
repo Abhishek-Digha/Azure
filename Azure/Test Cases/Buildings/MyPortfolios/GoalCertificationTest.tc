@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the certification text area, and calculating the percentage Certification reduction, base line value and Certification goal calculation. And we are also asserting the calculated data displaying with the manual calculation of data.</description>
+   <name>GoalCertificationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38b9c664-ac2f-428c-83b2-30296d264af7</testCaseGuid>
+</TestCaseEntity>

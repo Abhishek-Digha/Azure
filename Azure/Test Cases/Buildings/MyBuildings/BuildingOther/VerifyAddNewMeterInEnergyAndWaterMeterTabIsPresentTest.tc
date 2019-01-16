@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that in Data Input section In Energy and Water meter tab contains the Add new meter button.</description>
+   <name>VerifyAddNewMeterInEnergyAndWaterMeterTabIsPresentTest</name>
+   <tag>Verify Add New Meter  is Present in Energy and Water Meter Tab</tag>
+   <comment></comment>
+   <testCaseGuid>7cdb0fb8-a151-4b0a-be2a-63b0664effad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Base Score racetrack is populated when credits are marked ready for review &amp; also verifying that even though all  credits are marked , the base point score is 10</description>
+   <name>BasePointTotalScoreTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4a6129f-e4cc-42ae-b8c7-c51c5c183d9f</testCaseGuid>
+</TestCaseEntity>

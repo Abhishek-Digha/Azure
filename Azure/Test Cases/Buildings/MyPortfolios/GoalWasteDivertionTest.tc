@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the text area, and calculating the waste divertion reduction, base line value and waste divertion goal calculation. And we are also asserting the calculated data displaying with the manual calculation of data.</description>
+   <name>GoalWasteDivertionTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65081fa4-4ffc-43ce-b4c7-31485823a425</testCaseGuid>
+</TestCaseEntity>

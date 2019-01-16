@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify on clicking the cancel button on the review payment page navigates back to the selcetion page.</description>
+   <name>VerifyReviewPaymentCancelButtonNavigatesToSelectionPageTest</name>
+   <tag>Check cancel button navigation of review payment</tag>
+   <comment></comment>
+   <testCaseGuid>6775d0a6-5fd6-4c50-9289-5887a2dd883f</testCaseGuid>
+</TestCaseEntity>

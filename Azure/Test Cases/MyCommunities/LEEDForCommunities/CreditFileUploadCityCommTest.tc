@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Upload the credit file city and community.</description>
+   <name>CreditFileUploadCityCommTest</name>
+   <tag>Credit File upload</tag>
+   <comment></comment>
+   <testCaseGuid>e4edfdd2-83f7-42e0-a204-34307f78913e</testCaseGuid>
+</TestCaseEntity>

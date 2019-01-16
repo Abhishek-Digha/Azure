@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify able to delete files under measure .</description>
+   <name>DeleteUploadPdfFileTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb18b857-831c-4018-a681-1b9496286c0f</testCaseGuid>
+</TestCaseEntity>

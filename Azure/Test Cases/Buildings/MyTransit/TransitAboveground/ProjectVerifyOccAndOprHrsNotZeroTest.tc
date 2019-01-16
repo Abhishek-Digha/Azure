@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Operating hours and occupancy can't be zero</description>
+   <name>ProjectVerifyOccAndOprHrsNotZeroTest</name>
+   <tag>Manage Project Verification</tag>
+   <comment></comment>
+   <testCaseGuid>d6834f53-a973-417c-8be2-1336f5e72503</testCaseGuid>
+</TestCaseEntity>

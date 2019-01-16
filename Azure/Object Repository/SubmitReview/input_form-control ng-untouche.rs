@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_form-control ng-untouche</name>
+   <tag></tag>
+   <elementGuidId>2997d2dd-0545-4fa5-8891-d138fb1f06b3</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-not-empty ng-dirty ng-invalid ng-invalid-email ng-invalid-remove ng-valid-email-add ng-invalid-email-remove</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Email</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>email_for_snapshot.text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>sending_snapshot</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-focus</name>
+      <type>Main</type>
+      <value>removeEmailError()</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-keyup</name>
+      <type>Main</type>
+      <value>$event.keyCode == 13 ? sendReport() : null</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submit_for_review&quot;)/section[@class=&quot;widget pb50&quot;]/div[@class=&quot;widget-body&quot;]/div[@class=&quot;row black_color_28323a&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row mt30 fs16 ff-ss-r mr0 gray_border ml15 pl20 pr20 pb30 pt30&quot;]/div[@class=&quot;col-md-4 pt5&quot;]/input[@class=&quot;form-control ng-untouched ng-not-empty ng-dirty ng-invalid ng-invalid-email ng-invalid-remove ng-valid-email-add ng-invalid-email-remove&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

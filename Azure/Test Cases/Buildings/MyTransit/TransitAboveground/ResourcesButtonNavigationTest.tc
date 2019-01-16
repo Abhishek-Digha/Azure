@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify resource s &amp; Navigation page takes to correct page</description>
+   <name>ResourcesButtonNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa3cc5e9-a414-4df4-9d9a-d1c9185d1310</testCaseGuid>
+</TestCaseEntity>

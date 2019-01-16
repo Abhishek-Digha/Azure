@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Water consumption of project monthly (in gal).
+monthly consumption = annual consumption (in gal)/12
+annual consimption (in gal) = Please refer Annual water consumption (gal) (project)</description>
+   <name>MonthlyWaterConsumption(gal)ProjectTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36d63039-6fe2-4cf1-921f-6baabd00fe56</testCaseGuid>
+</TestCaseEntity>

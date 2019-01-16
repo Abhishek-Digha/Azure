@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a user should not have access to a project, for which the authorization level is assigned as 'None'</description>
+   <name>TeamVerifyWhenAuthLevelNoneUserNotAbleToAccessProjectTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a129836-9bfd-4c9b-b97c-05db2b3c44d7</testCaseGuid>
+</TestCaseEntity>

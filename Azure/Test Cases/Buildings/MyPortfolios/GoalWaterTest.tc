@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the water text area, and calculating the use of water reduction, base line value and water goal  calculation and we are also asserting the calculated data displaying with the manual calculation of data.</description>
+   <name>GoalWaterTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6deeaad-3f17-49d6-919d-442de5edc478</testCaseGuid>
+</TestCaseEntity>

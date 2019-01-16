@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if total 23 credits are seen when we click on the Base Points.</description>
+   <name>AllActionBasePointTotalCreditTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe2f3f44-0e96-45d3-8396-54eb2b1d05e5</testCaseGuid>
+</TestCaseEntity>

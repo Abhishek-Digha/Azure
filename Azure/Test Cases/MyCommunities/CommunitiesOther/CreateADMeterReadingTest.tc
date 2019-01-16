@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify ability to add Additional Detail reading on the year basis.</description>
+   <name>CreateADMeterReadingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3b243a1-59c8-4d48-adbb-f086650ae000</testCaseGuid>
+</TestCaseEntity>

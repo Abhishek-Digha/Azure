@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the WATER PROJECT(TOTAL DAILY  WATER CONSUMPTION=TOTAL ANNUAL WATER CONSUMPTION/365) , Water PER SQ FT(TOTAL DAILY CONSUMPTION =TOTAL ANNUAL CONSUMPTION /365) , Water PER OCC(TOTAL DAILY WATER CONSUMPTION =TOTAL ANNUAL WATER CONSUMPTION/365) calculation displays correctly .</description>
+   <name>DailyWaterConsumptionCalFromAnnualWaterConsumptionTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8a9fa29-8b12-4d5b-bf2c-f96884df50d3</testCaseGuid>
+</TestCaseEntity>

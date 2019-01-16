@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Municipality</name>
+   <tag></tag>
+   <elementGuidId>9140765a-c127-42aa-a89d-6b3baf506ad5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;meter_item&quot;)/div[@class=&quot;meterDetails--wrapper&quot;]/div[@class=&quot;row meterDetails-form--wrapper ng-scope&quot;]/form[@class=&quot;meterDetails-form ng-pristine ng-valid ng-scope&quot;]/div[@class=&quot;form-group meterDetails-form--meterSource&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;dropdown display-inline ml5&quot;]/button[@class=&quot;btn dropdown-toggle btn-default button--cancel-md&quot;]/svg[@class=&quot;svg-inline--fa fa-chevron-down fa-w-14&quot;][count(. | //svg[@ref_element = 'Object Repository/DataInput/MeterWater/iframe']) = count(//svg[@ref_element = 'Object Repository/DataInput/MeterWater/iframe'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-chevron-down fa-w-14</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>chevron-down</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 448 512</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;meter_item&quot;)/div[@class=&quot;meterDetails--wrapper&quot;]/div[@class=&quot;row meterDetails-form--wrapper ng-scope&quot;]/form[@class=&quot;meterDetails-form ng-pristine ng-valid ng-scope&quot;]/div[@class=&quot;form-group meterDetails-form--meterSource&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;dropdown display-inline ml5&quot;]/button[@class=&quot;btn dropdown-toggle btn-default button--cancel-md&quot;]/svg[@class=&quot;svg-inline--fa fa-chevron-down fa-w-14&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/DataInput/MeterWater/iframe_Error Sending Feedback_</value>
+   </webElementProperties>
+</WebElementEntity>

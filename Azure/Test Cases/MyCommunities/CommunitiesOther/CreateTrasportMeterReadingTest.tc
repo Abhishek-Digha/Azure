@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify ability to add transportation reading on the year basis .</description>
+   <name>CreateTrasportMeterReadingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5532d19-3046-4b7f-babf-6a070625e422</testCaseGuid>
+</TestCaseEntity>

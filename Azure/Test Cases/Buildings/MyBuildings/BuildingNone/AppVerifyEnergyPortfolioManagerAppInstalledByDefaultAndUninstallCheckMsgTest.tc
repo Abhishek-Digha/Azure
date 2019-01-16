@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Energy star portoflio Manager&quot;APP should be installed by default in the APP section for Building &amp; Transit RS.</description>
+   <name>AppVerifyEnergyPortfolioManagerAppInstalledByDefaultAndUninstallCheckMsgTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>092dcb7a-df7f-449a-b623-4a7f18ae6b70</testCaseGuid>
+</TestCaseEntity>

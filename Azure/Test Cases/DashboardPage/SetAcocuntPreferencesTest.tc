@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify 'User account' -->preferences , user is able to turn on/off the toggle and the functionality works fine for 'Receive email when new score version is available.</description>
+   <name>SetAcocuntPreferencesTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdc1b48f-03e4-4686-b035-41675a903bb9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if authorization level is none (one collaborator comes default) save details validation error message At least one user with Edit access should present display</description>
+   <name>ManageNoneChangeAuthLevelTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b84970fd-b011-4ba6-b3a2-92fa297eda94</testCaseGuid>
+</TestCaseEntity>

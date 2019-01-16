@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the TOTAL ANNUAL CARBON EMISSIONS (MTCO2e) : For Project , TOTAL ANNUAL CARBON EMISSIONS (MTCO2e): PER SQ FT , TOTAL ANNUAL CARBON EMISSIONS (MTCO2e) PER OCC Cal caution displays correctly .</description>
+   <name>CarbonTotalCarbonAnalyticsCalculationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f3b3b7d-de6d-499a-9e3e-eff481df3224</testCaseGuid>
+</TestCaseEntity>

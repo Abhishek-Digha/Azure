@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Upload the data input required files via Google Drive, One Drive and Dropbox.</description>
+   <name>DataInputFileUploadViaCloudTest</name>
+   <tag>Data Input File Upload Cloud</tag>
+   <comment></comment>
+   <testCaseGuid>d40d10f3-5d79-4816-8152-f8777580060e</testCaseGuid>
+</TestCaseEntity>

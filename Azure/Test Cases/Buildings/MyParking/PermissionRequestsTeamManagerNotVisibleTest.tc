@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that permission request section is absent for PARKSMART projects and also verifying team manager role is not present in the dropdown.</description>
+   <name>PermissionRequestsTeamManagerNotVisibleTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2dc788a3-1391-4b72-9254-0898f76a5282</testCaseGuid>
+</TestCaseEntity>

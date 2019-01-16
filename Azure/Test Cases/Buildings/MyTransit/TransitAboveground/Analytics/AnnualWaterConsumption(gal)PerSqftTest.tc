@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Annual consumption of project against its gross area (in sqft).
+annual consumption (Per sqft) = annual consumption (in gal)/area (in sqft)</description>
+   <name>AnnualWaterConsumption(gal)PerSqftTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2600c6df-4447-4378-b61e-325bd2904006</testCaseGuid>
+</TestCaseEntity>

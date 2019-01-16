@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify 'Data Resources' and 'data review checklist' is available only for Building and transit. Verify related PDF can be downloaded.</description>
+   <name>SettingVerifyDataResourceAndDataReviewChecklistDownloadTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93637428-5fa5-44ec-9cbe-cce796b72ea9</testCaseGuid>
+</TestCaseEntity>

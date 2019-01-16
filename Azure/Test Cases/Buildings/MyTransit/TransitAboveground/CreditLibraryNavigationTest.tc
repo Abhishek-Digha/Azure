@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Credit Library takes to the respective credit details page .</description>
+   <name>CreditLibraryNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbb7f731-d7ac-4453-ae4d-7f61ec77a0ce</testCaseGuid>
+</TestCaseEntity>

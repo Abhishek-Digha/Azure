@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify checkbox functionality for 'I accept the EULA' at the login window should give error message if left unchecked.</description>
+   <name>CheckboxIAccepttheEULATest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a95939d-a0d5-48ef-b6b1-4bf3db82182e</testCaseGuid>
+</TestCaseEntity>

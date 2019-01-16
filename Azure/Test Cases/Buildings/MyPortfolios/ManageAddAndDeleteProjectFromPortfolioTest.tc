@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ability to delete added project form the portfolio.</description>
+   <name>ManageAddAndDeleteProjectFromPortfolioTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bd8445b-57bc-4929-8ae8-5899b54d8586</testCaseGuid>
+</TestCaseEntity>

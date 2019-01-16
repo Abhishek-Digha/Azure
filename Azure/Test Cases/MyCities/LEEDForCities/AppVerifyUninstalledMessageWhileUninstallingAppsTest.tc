@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Verify uninstalled message after uninstalling the apps.</description>
+   <name>AppVerifyUninstalledMessageWhileUninstallingAppsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccd29c9f-2c22-45f7-9b03-424558ebdbcd</testCaseGuid>
+</TestCaseEntity>

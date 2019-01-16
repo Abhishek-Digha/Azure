@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the ability of all innovation measure to produce  the total point based on the selected  requirement .</description>
+   <name>AllInnovationTotalPointTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abfd360c-1e09-4500-af1f-8057a951ab84</testCaseGuid>
+</TestCaseEntity>

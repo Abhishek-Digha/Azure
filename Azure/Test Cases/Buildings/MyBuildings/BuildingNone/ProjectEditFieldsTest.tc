@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if fields are editable on Manage Project section</description>
+   <name>ProjectEditFieldsTest</name>
+   <tag>Manage Project</tag>
+   <comment></comment>
+   <testCaseGuid>1d4666ad-4fa6-41c9-81e2-6215d8f0cb3a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the water consumption values are changing according to the drop down per day/per month/per month pulled &amp;  Water consumption should show gallons/occupant and gallons/sq ft</description>
+   <name>WaterConsumptionPerDayMonthYearTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37c4137f-9459-463c-afd2-9e567d5a187e</testCaseGuid>
+</TestCaseEntity>

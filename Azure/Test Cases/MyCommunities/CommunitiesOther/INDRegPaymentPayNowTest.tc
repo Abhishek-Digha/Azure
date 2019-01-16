@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make the rgistration payment via check and then in billing section pay via Credit Crad</description>
+   <name>INDRegPaymentPayNowTest</name>
+   <tag>Pay Now Registration Payment</tag>
+   <comment></comment>
+   <testCaseGuid>8af0cc46-c1c9-407a-9782-68e1dbf9f168</testCaseGuid>
+</TestCaseEntity>

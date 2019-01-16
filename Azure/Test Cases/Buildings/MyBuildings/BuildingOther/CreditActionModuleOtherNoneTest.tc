@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify for Building-none/other Projects, only Data inputs and Review section ahould be present in Credits/Actions.</description>
+   <name>CreditActionModuleOtherNoneTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e260a451-5d1e-464b-9b10-9ca4449aec5b</testCaseGuid>
+</TestCaseEntity>

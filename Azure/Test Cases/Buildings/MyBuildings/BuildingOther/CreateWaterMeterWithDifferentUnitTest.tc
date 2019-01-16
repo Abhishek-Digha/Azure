@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create water meter with different water units and different fuel source combinations.</description>
+   <name>CreateWaterMeterWithDifferentUnitTest</name>
+   <tag>Create Energy Meter</tag>
+   <comment></comment>
+   <testCaseGuid>a5fb266b-68dd-4949-8798-ac9e4cdc0012</testCaseGuid>
+</TestCaseEntity>

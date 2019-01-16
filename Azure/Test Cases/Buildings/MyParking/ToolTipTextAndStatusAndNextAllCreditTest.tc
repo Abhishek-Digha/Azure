@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the tooltip under each measure displays and after clicking help text of tool tip is displays also verifying Next button takes to respective measures &amp; Verify if status button is not displayed under each measure.</description>
+   <name>ToolTipTextAndStatusAndNextAllCreditTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f98a404e-f9b3-4c4a-8980-d19828be426b</testCaseGuid>
+</TestCaseEntity>

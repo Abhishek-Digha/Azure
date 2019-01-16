@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if project type selected is  'Building LEED', a pop up to redirect to LEED ONLINE appears. Verify if redirect button works as expected.</description>
+   <name>BuildingLEEDTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb502fbf-6c69-4436-ad0c-e9dce5051d33</testCaseGuid>
+</TestCaseEntity>

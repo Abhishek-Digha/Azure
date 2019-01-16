@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Average daily waste diverted by per occupant of the project (in lbs).
+Formullae,
+Average daily waste diverted (lbs)(per occ) = daily waste diverted/occupancy</description>
+   <name>AverageDailyWasteDiverted(lbs)PerOccupancyTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccc2e287-24df-47e7-a5b8-48f2f0c8bd33</testCaseGuid>
+</TestCaseEntity>

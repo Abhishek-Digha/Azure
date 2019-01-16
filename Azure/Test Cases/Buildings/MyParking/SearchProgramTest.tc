@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the search dropdown and also verfiy the no of projects, if no project not found it throws error.</description>
+   <name>SearchProgramTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>208e98e5-8b17-46f1-87e9-cb5c51250c87</testCaseGuid>
+</TestCaseEntity>

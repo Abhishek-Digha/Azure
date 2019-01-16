@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to complete the review payment by credit card &amp; submit successul performance review for International project.</description>
+   <name>INTPerformanceScoreRevPayByCCTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>606ec3b5-066f-46a8-ab74-d6d865945cbf</testCaseGuid>
+</TestCaseEntity>

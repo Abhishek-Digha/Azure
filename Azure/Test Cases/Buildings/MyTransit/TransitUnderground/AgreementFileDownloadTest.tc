@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the agreement file is downloded or not</description>
+   <name>AgreementFileDownloadTest</name>
+   <tag>Download Agreement File</tag>
+   <comment></comment>
+   <testCaseGuid>e2ab14ea-6b3b-45ab-b794-0b973591f5c1</testCaseGuid>
+</TestCaseEntity>

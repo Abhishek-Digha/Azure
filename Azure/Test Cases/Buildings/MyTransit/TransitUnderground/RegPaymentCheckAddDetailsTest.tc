@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify for Check - check the verbiage on Instructions
+Upon completing the billing form below and clicking Generate Invoice, an invoice will be generated and emailed to the bill-to-party email address listed below.
+Mail the invoice and check to the following address:
+Green Business Certification Inc.
+P.O. Box 822964
+Philadelphia, PA 19182-2964
+To avoid delays in processing, please write the invoice number on the check.
+Once GBCI receives the check, please allow 2-3 business days for processing.</description>
+   <name>RegPaymentCheckAddDetailsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eea78a17-6241-4a98-8374-7fdf47f87e25</testCaseGuid>
+</TestCaseEntity>

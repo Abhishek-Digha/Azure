@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Certification is allowed without submitting any requirement.</description>
+   <name>VerifyCertificationIsAllowedWithoutRequirementTest</name>
+   <tag>Verify Certification Submit without requirement.</tag>
+   <comment></comment>
+   <testCaseGuid>f5928dae-88c7-4ad9-94cf-f0caba5d8480</testCaseGuid>
+</TestCaseEntity>

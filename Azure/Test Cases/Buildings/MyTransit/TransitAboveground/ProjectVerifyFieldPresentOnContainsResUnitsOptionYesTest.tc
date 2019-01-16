@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the field 'Number of residential units' is visible, if option for 'Contains residential units' chosen as 'Yes'</description>
+   <name>ProjectVerifyFieldPresentOnContainsResUnitsOptionYesTest</name>
+   <tag>Manage Project</tag>
+   <comment></comment>
+   <testCaseGuid>6317bb19-7fab-4f96-a7f0-c59e0ba6143a</testCaseGuid>
+</TestCaseEntity>

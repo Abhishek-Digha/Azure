@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to create new waste generation meter with reading.</description>
+   <name>CreateWasteGenerationMeterReadingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85cee119-5c21-43e8-853d-46b3360df5c6</testCaseGuid>
+</TestCaseEntity>

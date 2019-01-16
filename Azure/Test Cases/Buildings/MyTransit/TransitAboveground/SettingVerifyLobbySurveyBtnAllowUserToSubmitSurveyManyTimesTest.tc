@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify 'Lobby Survey' toggle button for rating 'Building' and 'Transit' should allow user to stay on the same page multiple times while submitting surveys.</description>
+   <name>SettingVerifyLobbySurveyBtnAllowUserToSubmitSurveyManyTimesTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5063c41-ecb6-46cb-9346-fdd932dea533</testCaseGuid>
+</TestCaseEntity>

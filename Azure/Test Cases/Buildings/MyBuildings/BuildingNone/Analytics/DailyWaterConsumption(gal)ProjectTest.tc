@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Water Consumption of project per day.
+daily water consumption = sum (water consumption)/period (no of days)</description>
+   <name>DailyWaterConsumption(gal)ProjectTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf4f9a63-6149-4e90-943b-9dee19238a9a</testCaseGuid>
+</TestCaseEntity>

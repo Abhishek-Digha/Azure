@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the fields appeared on the frontend while creating the new meter</description>
+   <name>NewMeterFieldVerificationTest</name>
+   <tag>Field Verification</tag>
+   <comment></comment>
+   <testCaseGuid>719f88a2-0ad7-453e-a441-6a3b60b97190</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Carbon emission by project against its occupancy.
+Annual carbon emissions (MTCO2e) (per occ) = Annual co2e (in MtCo2e)/occupancy</description>
+   <name>AnnualCarbonEmissions(MTCO2e)PerOccupancyTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0858568b-30c0-4d5e-90e7-de5fcb3e1de4</testCaseGuid>
+</TestCaseEntity>

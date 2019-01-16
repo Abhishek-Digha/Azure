@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyBillingReceiptAmountTest</name>
+   <tag>Verify the amount printed on the billing receipt</tag>
+   <comment></comment>
+   <testCaseGuid>f71553ae-d91c-458b-bb90-0549c13e4c0d</testCaseGuid>
+</TestCaseEntity>

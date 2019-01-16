@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify existing ARC administrator can't be edited. If edited, error message will display as 'Project should have atleast one ARC Administrator'.</description>
+   <name>TeamVerifyArcAdministratorCanNotEditWhenOnePresentTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3bee698-5ec0-406f-ad60-1fef2f7fb612</testCaseGuid>
+</TestCaseEntity>

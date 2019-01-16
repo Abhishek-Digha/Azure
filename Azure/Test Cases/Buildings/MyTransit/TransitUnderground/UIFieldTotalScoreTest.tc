@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validating the fields for Total performance score(total , energy , water , waste , transport , human experience , Base point  ) we are also validating minimum &amp; maximum points for category score.</description>
+   <name>UIFieldTotalScoreTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c137151-d775-43a6-98d8-17bb2f0b4c8c</testCaseGuid>
+</TestCaseEntity>

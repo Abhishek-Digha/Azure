@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the highest, average and lowest waste Score and filtering the top five projects on the basis of waste score.</description>
+   <name>AnalyticWasteHighAvgLowScoreTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e5f82dc-c1d4-4026-b7aa-b0dd15a24eaf</testCaseGuid>
+</TestCaseEntity>

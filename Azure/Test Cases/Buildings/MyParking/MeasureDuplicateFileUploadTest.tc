@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if able to upload  duplicate supporting Documents  for the measure.</description>
+   <name>MeasureDuplicateFileUploadTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ceca8ce-0efb-4a8d-8ef6-dcc293315e5c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Average waste diverted by the project on daily basis.
+Average daily waste diveretd (lbs) = sum(waste diverted (in lbs))/period (no. Of days)</description>
+   <name>AverageDailyWasteDiverted(lbs)ProjectTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>542656f0-c1ca-4c30-aada-b5b11a48af54</testCaseGuid>
+</TestCaseEntity>

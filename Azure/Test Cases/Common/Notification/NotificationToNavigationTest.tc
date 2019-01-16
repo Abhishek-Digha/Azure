@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify one by one clicking all notification page should redirect to that particular section</description>
+   <name>NotificationToNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6da44f1e-72a9-4577-8db1-dac2d7351bf1</testCaseGuid>
+</TestCaseEntity>

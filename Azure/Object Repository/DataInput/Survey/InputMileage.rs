@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InputMileage</name>
+   <tag></tag>
+   <elementGuidId>b32402f7-a79f-46ef-a002-9a083afb2abc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[@ng-model=&quot;selected_route.data[key]&quot;])[${index}]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[@ng-model=&quot;selected_route.data[key]&quot;])[${index}]</value>
+   </webElementProperties>
+</WebElementEntity>

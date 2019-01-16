@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyReviewPaymentByCheckHasPreFilledFieldsTest</name>
+   <tag>Verify review payment by check has Pre Filled fields.</tag>
+   <comment></comment>
+   <testCaseGuid>9e7d4509-dbfe-44ed-aa46-ecae9c2c1583</testCaseGuid>
+</TestCaseEntity>

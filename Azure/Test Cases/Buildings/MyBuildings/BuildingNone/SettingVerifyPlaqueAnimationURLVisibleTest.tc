@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify 'Plaque Animation' url is displayed for the ratings Building, Transit, City and Communities.</description>
+   <name>SettingVerifyPlaqueAnimationURLVisibleTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0f1b4d4-ef03-4154-8590-a7f9af02fe0c</testCaseGuid>
+</TestCaseEntity>

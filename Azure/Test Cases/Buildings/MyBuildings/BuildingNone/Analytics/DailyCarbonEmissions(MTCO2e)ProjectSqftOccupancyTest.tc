@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the ENERGY PROJECT(TOTAL DAILY CARBON EMISSIONS=TOTAL ANNUAL CARBON EMISSIONS/365) , ENERGY PER SQ FT(TOTAL DAILY CARBON EMISSIONS=TOTAL ANNUAL CARBON EMISSIONS/365), ENERGY PER OCC(TOTAL DAILY CARBON EMISSIONS=TOTAL ANNUAL CARBON EMISSIONS/365) calculation displays correctly .</description>
+   <name>DailyCarbonEmissions(MTCO2e)ProjectSqftOccupancyTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ebeae0b-8d3e-41d7-b71f-6c392752162f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify measure language PDf takes to appropriate page.</description>
+   <name>VerifyMeasureFileDownloadTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3e85ee7-fd19-4f56-9609-1f781609cdc9</testCaseGuid>
+</TestCaseEntity>

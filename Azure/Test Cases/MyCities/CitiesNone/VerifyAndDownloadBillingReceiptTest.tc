@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify and download the receipt of order generated</description>
+   <name>VerifyAndDownloadBillingReceiptTest</name>
+   <tag>Billing Verification</tag>
+   <comment></comment>
+   <testCaseGuid>45f604e8-838b-4968-9e8e-1e1592982990</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the &quot;Service agreement&quot; pdf is enclosed with the details.</description>
+   <name>TotalAnalyticsWasteScoreLocalAvgGlobalAvgTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bae6ffca-00c3-40a3-86bb-11fe90cefa7e</testCaseGuid>
+</TestCaseEntity>

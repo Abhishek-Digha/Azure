@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the unit changes on the changing of unit type</description>
+   <name>ProjectVerifyGrossFloorAreaUnitOnSelectionOfIPSITest</name>
+   <tag>Manage Project</tag>
+   <comment></comment>
+   <testCaseGuid>938bdd4c-a07b-4e72-bfed-6f8fa6fcce0d</testCaseGuid>
+</TestCaseEntity>

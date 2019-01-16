@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  project international project have ability to clear the payment using pay now option .</description>
+   <name>INTRegPaymentPayNowTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>904de282-ad1e-4490-bc43-dd1633504c88</testCaseGuid>
+</TestCaseEntity>

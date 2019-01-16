@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify My account Navigation page .</description>
+   <name>MyAcountNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad9b262f-d418-430e-8c9c-d19bd4ab684a</testCaseGuid>
+</TestCaseEntity>

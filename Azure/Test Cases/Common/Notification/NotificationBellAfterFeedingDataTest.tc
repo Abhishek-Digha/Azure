@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify after clearing all notification Zero notification should not display &amp; red notification indicator when there are no notifications to display for new project as well as existing projects</description>
+   <name>NotificationBellAfterFeedingDataTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec8a3af9-1ed0-45c3-ad11-ee099654fd17</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the highest, average and lowest Energy Score and filtering the top five projects on the basis of energy score.</description>
+   <name>AnalyticEnergyHighAvgLowScoreTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fe82415-cd42-42f7-9027-c106cf9a739a</testCaseGuid>
+</TestCaseEntity>

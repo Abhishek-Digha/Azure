@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify next and previous buttons performs the actions.</description>
+   <name>PreviousNextPrerequsiteTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>014c9364-d50a-42c8-8964-73d90a909326</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to make registration payment by the check for china porject .</description>
+   <name>CNRegPaymentByCheckTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9e79f75-2a8a-4914-a2b9-0b11fad9ae56</testCaseGuid>
+</TestCaseEntity>

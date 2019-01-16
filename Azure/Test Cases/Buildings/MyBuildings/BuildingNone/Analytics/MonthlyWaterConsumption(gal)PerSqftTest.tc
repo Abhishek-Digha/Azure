@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>water consumption of project monthly against its gross area (in
+sqft).
+monthly consumption (per sqft) = monthly consumption (in gal)/ gross_area (in sqft)</description>
+   <name>MonthlyWaterConsumption(gal)PerSqftTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29339e82-906f-470c-a6e3-1fc732414f12</testCaseGuid>
+</TestCaseEntity>

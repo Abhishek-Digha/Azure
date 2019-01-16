@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the order history on the usgbc website and validate the following details.(#Status, Date, Total Amount, and Pay Now button).</description>
+   <name>VerifyTheOrderHistoryUSGBCAccountTest</name>
+   <tag>Verify the order history at USGBC</tag>
+   <comment></comment>
+   <testCaseGuid>f11f4c4a-7b92-481e-b496-45a4d9e1619d</testCaseGuid>
+</TestCaseEntity>

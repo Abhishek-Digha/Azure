@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to download the export data with one year for reading of the energy , water , waste , transport section .</description>
+   <name>EWWTDownloadExportTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48c19a7d-c1bd-4fab-aae8-846c33f5b2a5</testCaseGuid>
+</TestCaseEntity>

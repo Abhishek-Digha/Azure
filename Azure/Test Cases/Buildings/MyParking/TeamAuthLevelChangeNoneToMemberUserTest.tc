@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change the authorization level of a member from 'None' to 'member or 'Manager' and verify team member is able to access the project.</description>
+   <name>TeamAuthLevelChangeNoneToMemberUserTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>288c49b2-61d3-41ac-a4f0-418d87088186</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Interior total voc levels (ug/m3) = Mean (total voc) => Sum(total voc)/no of days (range)</description>
+   <name>HumExpInteriorTotalVolatileOrganicCompoundlevels(ugAndm3)Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0f04f42-5784-41bb-96b3-3cc055b133dd</testCaseGuid>
+</TestCaseEntity>

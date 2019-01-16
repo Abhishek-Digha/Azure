@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Sez uploaded files in billing section.</description>
+   <name>INDVerifySEZFilesUploadedInBillingSectionTest</name>
+   <tag>Verify Sez files in billing section.</tag>
+   <comment></comment>
+   <testCaseGuid>98d6fb0c-0987-4f7b-a7a8-75355b3cc6c4</testCaseGuid>
+</TestCaseEntity>

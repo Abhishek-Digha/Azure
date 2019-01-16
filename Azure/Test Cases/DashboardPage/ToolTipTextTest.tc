@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the radio buttons for the Units &amp; 
+tooltip text .</description>
+   <name>ToolTipTextTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a50b60a8-cd8d-44cd-892b-b912603b0a57</testCaseGuid>
+</TestCaseEntity>

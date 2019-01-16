@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the ability of all tech structure design measure to produce  the total point based on the selected  requirement .</description>
+   <name>AllTechStructureDesignTotalPointTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5871b4f-09a9-4b1d-8872-044e6d5032db</testCaseGuid>
+</TestCaseEntity>

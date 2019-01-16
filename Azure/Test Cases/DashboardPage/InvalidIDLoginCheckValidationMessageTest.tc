@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify invalid ID not able to log-in</description>
+   <name>InvalidIDLoginCheckValidationMessageTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3d4c102-6e1a-47b8-a6d3-658bf3b8859b</testCaseGuid>
+</TestCaseEntity>

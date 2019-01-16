@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the link to view certification fees and member discount and when clicked takes you to http://www.usgbc.org/cert-guide/fees</description>
+   <name>RegPaymentPageFeeNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6505724-49b5-45e5-8ee9-68e7f74be000</testCaseGuid>
+</TestCaseEntity>

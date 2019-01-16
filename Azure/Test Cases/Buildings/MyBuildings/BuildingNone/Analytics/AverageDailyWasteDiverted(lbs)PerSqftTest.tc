@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Average waste diverted by the project on daily basis against its
+gross_area (in sqft).
+Average daily waste diverted (lbs)(per sqft) = daily waste diverted/gross_area (in sqft)</description>
+   <name>AverageDailyWasteDiverted(lbs)PerSqftTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1d613db-c57c-4a50-ab8c-5096a306c1cd</testCaseGuid>
+</TestCaseEntity>

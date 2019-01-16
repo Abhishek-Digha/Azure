@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This can be cross checked from energy score section (chart)</description>
+   <name>TotalAnalyticsTransportationScoreLocalAvgGlobalAvgTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78aeafe3-03c5-49fa-9025-05c1ecb3b213</testCaseGuid>
+</TestCaseEntity>

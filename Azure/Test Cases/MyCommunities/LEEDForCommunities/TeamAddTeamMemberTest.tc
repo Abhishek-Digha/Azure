@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding new team member to the project</description>
+   <name>TeamAddTeamMemberTest</name>
+   <tag>Add Team Member</tag>
+   <comment></comment>
+   <testCaseGuid>dcbda99e-b587-4fe5-a2bf-4f1ed43c45b9</testCaseGuid>
+</TestCaseEntity>

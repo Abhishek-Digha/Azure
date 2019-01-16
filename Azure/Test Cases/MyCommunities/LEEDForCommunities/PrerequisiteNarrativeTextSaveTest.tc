@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if all the prerequisite credit have ability to save narrative text after refresh .</description>
+   <name>PrerequisiteNarrativeTextSaveTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0b9b648-77c5-4704-aa10-ade2f2b1cd71</testCaseGuid>
+</TestCaseEntity>

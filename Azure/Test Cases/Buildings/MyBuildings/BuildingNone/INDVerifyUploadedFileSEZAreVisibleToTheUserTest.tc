@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Upload the document supporting SEZ and then verify if it is visible on the frontend.</description>
+   <name>INDVerifyUploadedFileSEZAreVisibleToTheUserTest</name>
+   <tag>SEZ uploaded files are visible to the users.</tag>
+   <comment></comment>
+   <testCaseGuid>acb524f8-0d43-4a24-b039-3fd78acd364c</testCaseGuid>
+</TestCaseEntity>

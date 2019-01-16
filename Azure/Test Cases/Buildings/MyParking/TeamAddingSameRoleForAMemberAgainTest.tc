@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding the same team role for a member again, should give a validation message like 'ashree511@gmail.com already has the same team role'</description>
+   <name>TeamAddingSameRoleForAMemberAgainTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>049a4cbc-006a-4576-a825-ee433aa7ee0e</testCaseGuid>
+</TestCaseEntity>

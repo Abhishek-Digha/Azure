@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>water consumption of project monthly (in gal) against its
+occupancy.
+monthly consumption (per occ) = monthly consumption (in gal)/occupancy</description>
+   <name>MonthlyWaterConsumption(gal)PerOccupancyTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e99e7960-2ee1-4905-95f1-e2712c955165</testCaseGuid>
+</TestCaseEntity>

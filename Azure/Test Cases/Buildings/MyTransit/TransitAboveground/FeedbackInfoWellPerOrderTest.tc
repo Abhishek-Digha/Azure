@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ability in informative content order is 1. Button- Green(colour) - happy(message) 2. Button - yellow(colour)- satisfied(message) 3. Button -red(colour)- sad(message) based on selection of button colour should change and message should display
+Ability in Well-organized order is 1. Button- Green(colour) - happy(message) 2. Button - yellow(colour)- satisfied(message) 3. Button -red(colour)- sad(message) based on selection of button colour should change and message should display
+Ability in performance order is 1. Button- Green(colour) - happy(message) 2. Button - yellow(colour)- satisfied(message) 3. Button -red(colour)- sad(message) based on selection of button colour should change and message should display</description>
+   <name>FeedbackInfoWellPerOrderTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90e6ae7d-2c22-4fc6-825d-0fd1a323e0bb</testCaseGuid>
+</TestCaseEntity>

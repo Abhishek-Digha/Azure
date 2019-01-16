@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the billing date and amount for project registration and project certification review.</description>
+   <name>ManageBillingDateAndStatusTest</name>
+   <tag>Billing Date and Amount Verification</tag>
+   <comment></comment>
+   <testCaseGuid>e4436a80-1bcb-4669-ae0d-a80455934dbb</testCaseGuid>
+</TestCaseEntity>

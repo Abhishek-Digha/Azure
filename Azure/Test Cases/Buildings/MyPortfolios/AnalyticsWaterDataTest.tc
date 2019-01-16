@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the  calcuation of waste Generation reduction targets percentage  &amp;  average MTCO2e/occupant &amp; average MTCO2e/square foot .</description>
+   <name>AnalyticsWaterDataTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc59c209-bcae-42f1-be0e-401a1693682c</testCaseGuid>
+</TestCaseEntity>

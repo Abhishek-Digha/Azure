@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the project details are appearing correctly on the right side with ( Project ID , Name , Rating system) for Buildings - LEED V4 O+M: EB (WP), City- , Community - Transit - , Parksmart .</description>
+   <name>RegPaymentProjDetailsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ced85c8b-9fb3-4e6e-8f78-90edda84baaf</testCaseGuid>
+</TestCaseEntity>

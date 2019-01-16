@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify team member can be added who is a registered USGBC.org user. Verify authorization level should be by default as 'Team Member' if added any new team member.</description>
+   <name>VerifyDefautRoleTeamMemberTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a460c65b-651c-4edf-b0da-abd5f62e0d0e</testCaseGuid>
+</TestCaseEntity>

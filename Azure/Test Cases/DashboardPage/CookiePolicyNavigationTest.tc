@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check hyperlinks  in Login module for 'cookie policy' clicking on the hyperlinks should redirect to correct webpage &amp; we are also verifying 'cookie policy' inside banner clicking on the hyperlinks should redirect to correct webpage</description>
+   <name>CookiePolicyNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d040593-e4d4-4d8a-b427-b86a5be384fc</testCaseGuid>
+</TestCaseEntity>

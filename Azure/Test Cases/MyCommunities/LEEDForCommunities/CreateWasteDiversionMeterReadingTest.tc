@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ability to add reading for waste diversion &amp; verifying data after referesh</description>
+   <name>CreateWasteDiversionMeterReadingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2b0830f-c826-40d0-91ac-6fe46636f331</testCaseGuid>
+</TestCaseEntity>

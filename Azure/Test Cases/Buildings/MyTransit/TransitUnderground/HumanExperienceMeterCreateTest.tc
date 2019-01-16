@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Reading for Meter Co2 and VOC</description>
+   <name>HumanExperienceMeterCreateTest</name>
+   <tag>Create Human Experience Meter</tag>
+   <comment></comment>
+   <testCaseGuid>681d50d0-1ac7-46b9-9ed9-1c67a75e14dd</testCaseGuid>
+</TestCaseEntity>

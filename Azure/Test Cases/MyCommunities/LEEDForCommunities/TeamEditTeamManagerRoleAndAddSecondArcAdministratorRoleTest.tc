@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that project should have minimum one ARC adminsitrator. Project can also have more than one ARC administrator.
+Verify authorization level Team Member can be changed.</description>
+   <name>TeamEditTeamManagerRoleAndAddSecondArcAdministratorRoleTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48577f83-4830-44e8-afe0-23690e56c00f</testCaseGuid>
+</TestCaseEntity>

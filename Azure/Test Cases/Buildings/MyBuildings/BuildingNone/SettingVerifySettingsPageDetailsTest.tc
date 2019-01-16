@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Please check if the following settings are available:
+ 1. Lobby Survey
+ 2. Make LEED score public
+ 3. Receive emails only when your score changes
+ 4. Plaque Animation
+ 5. Data Resources 
+ 6. Data Review Checklist 
+ 7. Set Defult page</description>
+   <name>SettingVerifySettingsPageDetailsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5203f7f8-6dfa-4f10-9cfa-6e3e95bd2241</testCaseGuid>
+</TestCaseEntity>

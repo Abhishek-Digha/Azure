@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Validation</name>
+   <tag></tag>
+   <elementGuidId>4f7b200c-8a08-4093-8198-62ab8fec6a92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;create_portfolio_modal&quot;]/div[1]/div/div[2]/div[1]/div/form/fieldset/section/table/tbody/tr[1]/td[1]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

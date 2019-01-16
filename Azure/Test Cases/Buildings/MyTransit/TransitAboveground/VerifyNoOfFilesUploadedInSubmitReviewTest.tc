@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the no of files uploaded to the data input section</description>
+   <name>VerifyNoOfFilesUploadedInSubmitReviewTest</name>
+   <tag>Count No of files</tag>
+   <comment></comment>
+   <testCaseGuid>ec2ea036-98b3-4c87-b70c-98be98f9df0a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Total value in Total Portfo
+lio (last 365 days) / no of projects</description>
+   <name>AverageGrossFloorAreaTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2d8a912-4f69-4bb4-a6da-44e8d2491d04</testCaseGuid>
+</TestCaseEntity>

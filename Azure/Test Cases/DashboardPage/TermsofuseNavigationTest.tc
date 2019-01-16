@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check hyperlinks  in Login module for Terms of use clicking on the hyperlinks should redirect to correct webpage.</description>
+   <name>TermsofuseNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47289365-eb92-46b0-a434-95b0aa4c4bf3</testCaseGuid>
+</TestCaseEntity>

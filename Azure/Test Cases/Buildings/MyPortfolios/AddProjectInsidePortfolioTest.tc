@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the portfolio have ability to add projects  &amp; after adding each project we are verifying that add project success text on the model.</description>
+   <name>AddProjectInsidePortfolioTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9e6eaba-312f-4326-91f5-1afb81c82bc4</testCaseGuid>
+</TestCaseEntity>

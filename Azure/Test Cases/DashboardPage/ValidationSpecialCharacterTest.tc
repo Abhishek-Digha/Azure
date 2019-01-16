@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify validation on the Special Character for project name.</description>
+   <name>ValidationSpecialCharacterTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b07b7a29-17db-484d-8caf-28cf96ced668</testCaseGuid>
+</TestCaseEntity>

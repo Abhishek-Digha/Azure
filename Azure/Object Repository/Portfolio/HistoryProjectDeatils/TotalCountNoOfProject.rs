@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TotalCountNoOfProject</name>
+   <tag></tag>
+   <elementGuidId>07bf61e1-8251-4738-b0f2-2a1cd7cc4135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@class='table table-striped table-hover table-project-lists']/tbody[1]/tr[@class='project_row ng-scope']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1000142947</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row bg-white ng-scope&quot;]/div[@class=&quot;col-sm-12&quot;]/section[@class=&quot;widget pt0&quot;]/div[@class=&quot;widget-container portfolio_project_tab show&quot;]/div[@class=&quot;form-inline no-footer hidden-xs myprojects_tbl&quot;]/table[@class=&quot;table table-striped table-hover table-project-lists&quot;]/tbody[1]/tr[@class=&quot;project_row ng-scope&quot;]/td[@class=&quot;vertical-align-middle cursor-pointer&quot;]/span[@class=&quot;ng-binding&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

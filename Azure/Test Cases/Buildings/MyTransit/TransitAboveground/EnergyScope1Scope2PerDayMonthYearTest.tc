@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the carbon consumption values are changing according to the drop down per day/per month/per years displays correctly and Carbon consumption should have MTCO2e/occupant and MTCO2e/square foot and the column should show scope 1 and scope 2 readings.</description>
+   <name>EnergyScope1Scope2PerDayMonthYearTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb12cd41-9ea0-4dd9-9fcd-91c5c3b6fa6b</testCaseGuid>
+</TestCaseEntity>

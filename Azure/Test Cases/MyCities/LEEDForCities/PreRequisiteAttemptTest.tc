@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>City Pre Requisite to Attempt Test</description>
+   <name>PreRequisiteAttemptTest</name>
+   <tag>Pre Requisite</tag>
+   <comment></comment>
+   <testCaseGuid>e22be929-5bb5-4eca-b891-fae866dd1165</testCaseGuid>
+</TestCaseEntity>

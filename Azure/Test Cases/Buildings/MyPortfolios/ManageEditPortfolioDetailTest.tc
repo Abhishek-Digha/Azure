@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the portfolio have ablity to edit &amp; save the below deatils after the refresh like name , org , mob ,country , email &amp; other details .</description>
+   <name>ManageEditPortfolioDetailTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc5f3d8e-c803-4e79-82c4-f391f3f1a500</testCaseGuid>
+</TestCaseEntity>

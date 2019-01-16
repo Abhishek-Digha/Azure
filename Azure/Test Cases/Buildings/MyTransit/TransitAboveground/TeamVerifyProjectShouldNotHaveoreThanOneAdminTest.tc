@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a project should not have more than one Project admin.</description>
+   <name>TeamVerifyProjectShouldNotHaveoreThanOneAdminTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6deee46f-fe88-4c49-ba0a-4b86e1f52c48</testCaseGuid>
+</TestCaseEntity>

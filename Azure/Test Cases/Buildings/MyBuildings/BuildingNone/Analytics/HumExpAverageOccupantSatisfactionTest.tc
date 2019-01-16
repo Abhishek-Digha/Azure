@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>average occupant satisfaction = sum(satisfaction points)/(no of survey submitted)</description>
+   <name>HumExpAverageOccupantSatisfactionTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9604ccd-23bf-4b63-a818-f27a3b9c4bea</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Verify app are present on the apps section. Install all the apps present in the section and check success message.</description>
+   <name>AppVerifyAllAppsAvailableInstallAndCheckSuccessMessageTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c46e8c1-85c5-42cd-bcdf-fd5c8cafbc24</testCaseGuid>
+</TestCaseEntity>

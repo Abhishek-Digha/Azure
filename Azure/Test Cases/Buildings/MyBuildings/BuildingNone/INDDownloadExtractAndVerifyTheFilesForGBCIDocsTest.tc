@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the GBCI docs in the billing section after extracting it from the zipped folder.</description>
+   <name>INDDownloadExtractAndVerifyTheFilesForGBCIDocsTest</name>
+   <tag>Verify the GBCI docs</tag>
+   <comment></comment>
+   <testCaseGuid>d8aa56d4-13d1-41e9-9d9e-2e63c15f37fd</testCaseGuid>
+</TestCaseEntity>

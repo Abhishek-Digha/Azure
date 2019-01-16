@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Ability to change  to change &amp; save authorization level as edit , read , none.</description>
+   <name>ManageEditTeamMemberRoleReadOnlyTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b26708b3-4ecf-4228-af49-a3b9aeeb6b6c</testCaseGuid>
+</TestCaseEntity>

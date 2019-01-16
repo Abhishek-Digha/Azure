@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify clicking on the ARC Logo takes you back to the ARC log-in page</description>
+   <name>ArcLogoNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8e3a6b4-8182-4b75-a1ba-b358c5803d16</testCaseGuid>
+</TestCaseEntity>

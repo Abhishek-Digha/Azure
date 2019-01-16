@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify login functionlity &amp; post login text verification</description>
+   <name>LoginWithBuildingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af1016f4-066b-41b3-a6cd-45785c5c8f90</testCaseGuid>
+</TestCaseEntity>

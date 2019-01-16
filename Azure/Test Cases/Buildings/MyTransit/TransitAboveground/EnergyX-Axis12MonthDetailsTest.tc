@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the label for X-axis will have 12 months details including months name compare to today’s month and field for the score &amp; months.</description>
+   <name>EnergyX-Axis12MonthDetailsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0d11d3e-b844-4530-93f8-5662fdb2ff52</testCaseGuid>
+</TestCaseEntity>

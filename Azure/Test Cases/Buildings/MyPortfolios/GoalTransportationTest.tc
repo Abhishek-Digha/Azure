@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the Transportation text area, Percentage transportation reduction, base line value and Transportation goal calculation. And we are also asserting the calculated data displaying with the manual calculation of data.</description>
+   <name>GoalTransportationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca575102-88c2-43e1-94b4-449353b6e381</testCaseGuid>
+</TestCaseEntity>

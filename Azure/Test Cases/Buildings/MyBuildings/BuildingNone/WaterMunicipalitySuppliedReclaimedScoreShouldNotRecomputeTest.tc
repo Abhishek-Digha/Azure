@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that if the water meter type is reclaimed onsite or Municilapity supplied reclaimed water, the score should not generate.</description>
+   <name>WaterMunicipalitySuppliedReclaimedScoreShouldNotRecomputeTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52c4207a-c057-47ac-8ca2-1d3ec7ca1bd5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to create new energy meter with different reading &amp; saving functionality after refresh .</description>
+   <name>CreateEnergyMeterReadingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06cff6ac-51b6-40e3-90dc-62b78185787f</testCaseGuid>
+</TestCaseEntity>

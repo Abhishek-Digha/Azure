@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the certified project displays Arc certification logo , certification point , level , ratings system correctly under the total analytics section .</description>
+   <name>TotalCertificationDetailsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cea2828-3708-4140-a395-03ae0eedfcf3</testCaseGuid>
+</TestCaseEntity>

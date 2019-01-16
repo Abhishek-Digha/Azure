@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create the Meter for the  Energy, Building None Rating System</description>
+   <name>BuildingEnergyMeterCreateTest</name>
+   <tag>Energy Meter</tag>
+   <comment></comment>
+   <testCaseGuid>d11ba172-001c-4dc9-acfd-8f6f66207a95</testCaseGuid>
+</TestCaseEntity>

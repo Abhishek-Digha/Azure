@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the registration payment is pending then the user is unable to submit review and the error message is dispalying there.</description>
+   <name>CheckSubmitReviewContinueButtonAndErrorMessageTest</name>
+   <tag>Verify Error Message when registration Payment Pending</tag>
+   <comment></comment>
+   <testCaseGuid>effa797f-72c3-435a-9576-36652fd638c6</testCaseGuid>
+</TestCaseEntity>

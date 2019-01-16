@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To test the graph populated after the data input waste</description>
+   <name>ValidateWasteDatagraphTest</name>
+   <tag>Waste Generation Graph Test</tag>
+   <comment></comment>
+   <testCaseGuid>e79b1709-8d4f-4509-b0c0-d994c91b34aa</testCaseGuid>
+</TestCaseEntity>

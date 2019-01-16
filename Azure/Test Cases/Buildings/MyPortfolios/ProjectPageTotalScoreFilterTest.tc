@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verfifying the names of the projects added based on the order and performance score.</description>
+   <name>ProjectPageTotalScoreFilterTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e87bbdce-3bdc-4429-8fa2-70ddf53f80e4</testCaseGuid>
+</TestCaseEntity>

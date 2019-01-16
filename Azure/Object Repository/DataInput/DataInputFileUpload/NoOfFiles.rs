@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NoOfFiles</name>
+   <tag></tag>
+   <elementGuidId>14bf92a1-9ccb-4753-b0d9-1137c8a06668</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@ng-click=&quot;showUploads(data)&quot;]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;readingsTable&quot;)/tbody[1]/tr[@class=&quot;dynamic_row ng-scope&quot;]/td[@class=&quot;meterReadingDocument--wrapper&quot;]/div[@class=&quot;document-modal ng-scope&quot;]/span[@class=&quot;ng-binding&quot;][count(. | //*[@ref_element = 'Object Repository/DataInput/CreateMeterBuilding/iframe_datainput-widget']) = count(//*[@ref_element = 'Object Repository/DataInput/CreateMeterBuilding/iframe_datainput-widget'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>7</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;readingsTable&quot;)/tbody[1]/tr[@class=&quot;dynamic_row ng-scope&quot;]/td[@class=&quot;meterReadingDocument--wrapper&quot;]/div[@class=&quot;document-modal ng-scope&quot;]/span[@class=&quot;ng-binding&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/DataInput/CreateMeterBuilding/iframe_datainput-widget</value>
+   </webElementProperties>
+</WebElementEntity>

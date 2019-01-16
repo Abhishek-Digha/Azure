@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the ability of all management measure to produce  the total point based on the selected  requirement .</description>
+   <name>AllManagementTotalPointTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8d6e936-e32b-4cc3-a2e3-087bee4a01ad</testCaseGuid>
+</TestCaseEntity>

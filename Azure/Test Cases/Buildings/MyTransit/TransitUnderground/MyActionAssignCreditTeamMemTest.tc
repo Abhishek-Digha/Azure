@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if user is able to view the assign to self-credit team member -displays under the My Action page .</description>
+   <name>MyActionAssignCreditTeamMemTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0ccb743-e829-459d-ac3c-9ea62777f198</testCaseGuid>
+</TestCaseEntity>

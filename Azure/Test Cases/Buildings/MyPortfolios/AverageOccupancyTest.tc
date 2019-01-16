@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Value in Total Portfolio (last 365 days) / no of occupants(portfolio)</description>
+   <name>AverageOccupancyTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74909ed3-5467-4e3b-9afb-521977af00cb</testCaseGuid>
+</TestCaseEntity>

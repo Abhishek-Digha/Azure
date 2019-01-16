@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Please check  for Data Inputs , installed APP should not be getting reflected for building &amp; transit  by default all apps will be installed even though if we install or uninstall the apps.</description>
+   <name>AppVerifyAllAppInstallInDataInputByDefaultEvenAfterUnIstallingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15904db1-a6a0-44dd-84b7-9144463f998e</testCaseGuid>
+</TestCaseEntity>

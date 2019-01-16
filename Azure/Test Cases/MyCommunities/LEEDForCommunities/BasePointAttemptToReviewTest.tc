@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Building Transit Base Point Attempt Test</description>
+   <name>BasePointAttemptToReviewTest</name>
+   <tag>Base Point Attempt Test</tag>
+   <comment></comment>
+   <testCaseGuid>fdebf1a7-6662-4c3c-92ba-df1dc8f1ddaf</testCaseGuid>
+</TestCaseEntity>

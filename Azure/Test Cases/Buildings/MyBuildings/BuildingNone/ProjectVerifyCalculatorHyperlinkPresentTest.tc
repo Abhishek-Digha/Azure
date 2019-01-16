@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the calculator hyperlink present on the Manage Project section.</description>
+   <name>ProjectVerifyCalculatorHyperlinkPresentTest</name>
+   <tag>Manage Project</tag>
+   <comment></comment>
+   <testCaseGuid>76dc903f-c865-4c25-96c7-23fcf9e9225c</testCaseGuid>
+</TestCaseEntity>

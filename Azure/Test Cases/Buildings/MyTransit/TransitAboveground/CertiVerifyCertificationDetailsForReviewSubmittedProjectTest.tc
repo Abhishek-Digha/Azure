@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>For ARC  project (Not certified ARC project) if submitted, verify details should appear in certification section.</description>
+   <name>CertiVerifyCertificationDetailsForReviewSubmittedProjectTest</name>
+   <tag>Manage Certification</tag>
+   <comment></comment>
+   <testCaseGuid>ca587645-3ce7-4e82-8a7c-7fe45ee2c7ff</testCaseGuid>
+</TestCaseEntity>

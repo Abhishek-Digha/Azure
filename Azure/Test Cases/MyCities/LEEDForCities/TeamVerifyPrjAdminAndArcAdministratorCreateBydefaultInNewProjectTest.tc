@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Project Admin and ARC Administrator will be created default when a project is created.</description>
+   <name>TeamVerifyPrjAdminAndArcAdministratorCreateBydefaultInNewProjectTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>673153e1-46d2-4db9-91ca-56e8d3b62e1b</testCaseGuid>
+</TestCaseEntity>

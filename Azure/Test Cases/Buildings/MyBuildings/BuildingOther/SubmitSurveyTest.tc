@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to submit the survey for Transportation and human Experience section.</description>
+   <name>SubmitSurveyTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40f0dacb-ddd3-4a5b-91d7-c886eab7afad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the document tab is able to upload the files and verify the details of files uploaded to credit/reading with the detailed description.</description>
+   <name>VerifyDocumentTabFileUploadAndFileDetailTest</name>
+   <tag>Document tab file upload functionality</tag>
+   <comment></comment>
+   <testCaseGuid>85a9f786-48cd-462b-8aeb-f18215adac63</testCaseGuid>
+</TestCaseEntity>

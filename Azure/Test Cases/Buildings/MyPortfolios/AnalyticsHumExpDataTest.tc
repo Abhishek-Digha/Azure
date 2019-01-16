@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the  calcuation of human experiace  reduction targets percentage .</description>
+   <name>AnalyticsHumExpDataTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd39ded1-da07-4212-b8ad-9fea57ea802a</testCaseGuid>
+</TestCaseEntity>

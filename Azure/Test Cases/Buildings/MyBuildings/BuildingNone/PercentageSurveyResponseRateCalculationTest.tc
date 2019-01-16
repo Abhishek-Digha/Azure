@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that survey response rate% is calculated on the basis of the following formula [ Response %ge = (No. of responses/Occupancy)*100 ] . Always count the no of responses by counting the no of rows of HE exported survey results &amp; we are also validating Verify that survey response rate percentage is same in Transport and HE tabs.</description>
+   <name>PercentageSurveyResponseRateCalculationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf44abff-f5ed-416b-929e-59cda4217f5d</testCaseGuid>
+</TestCaseEntity>

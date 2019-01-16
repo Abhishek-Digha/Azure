@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the transportation and human experience section survey response displays correctly inside the  total analytics section base on the data input section .</description>
+   <name>TotalAnalyticTranHumDataInputSurveyResRateTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76abd946-1a85-4a2a-95a8-8300ccd97844</testCaseGuid>
+</TestCaseEntity>

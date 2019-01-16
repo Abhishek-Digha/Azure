@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Plaque animation works, if Url is copied in new window or in a new tab.</description>
+   <name>SettingVerifyPlaqueAnimationWorkInNewWindowTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a763fb50-6118-4a61-ba74-e9fc3957ec1b</testCaseGuid>
+</TestCaseEntity>

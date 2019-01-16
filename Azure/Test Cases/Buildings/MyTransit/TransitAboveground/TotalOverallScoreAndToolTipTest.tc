@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the total overall score is updated correctly whenever the score changes post the score recomputing &amp; total score section .</description>
+   <name>TotalOverallScoreAndToolTipTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef1a4693-d0f6-4439-9eb4-15ab6367f9ef</testCaseGuid>
+</TestCaseEntity>

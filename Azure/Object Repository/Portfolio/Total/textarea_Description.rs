@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Description</name>
+   <tag></tag>
+   <elementGuidId>362680e8-2326-4db6-b68b-e9f52a9a8044</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;content&quot;)/div[@class=&quot;row bg-white ng-scope&quot;]/div[@class=&quot;col-sm-12&quot;]/section[@class=&quot;widget overflow-auto pt20 mb0&quot;]/table[@class=&quot;width-100-perc port_table hidden-xs&quot;]/tbody[1]/tr[3]/td[1]/div[1]/textarea[@class=&quot;form-control input-sm input-port ml15 ng-pristine ng-untouched ng-valid ng-valid-maxlength ng-not-empty border-bottom&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[3]/td/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-sm input-port ml15 ng-pristine ng-untouched ng-valid ng-valid-maxlength ng-not-empty border-bottom</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'border-bottom': !showThis}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>formdata.portfolio_description</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-readonly</name>
+      <type>Main</type>
+      <value>showThis</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>showThis</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>US Building LEED V4 Projects</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row bg-white ng-scope&quot;]/div[@class=&quot;col-sm-12&quot;]/section[@class=&quot;widget overflow-auto pt20 mb0&quot;]/table[@class=&quot;width-100-perc port_table hidden-xs&quot;]/tbody[1]/tr[3]/td[1]/div[1]/textarea[@class=&quot;form-control input-sm input-port ml15 ng-pristine ng-untouched ng-valid ng-valid-maxlength ng-not-empty border-bottom&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

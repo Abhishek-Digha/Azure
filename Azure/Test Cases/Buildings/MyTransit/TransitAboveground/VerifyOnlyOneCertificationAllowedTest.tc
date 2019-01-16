@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that once the certification is submitted then no further certification is allowed to submit.</description>
+   <name>VerifyOnlyOneCertificationAllowedTest</name>
+   <tag>Verify Only One Certification is allowed.</tag>
+   <comment></comment>
+   <testCaseGuid>e925edba-5775-4666-84e0-a71b7a3c7662</testCaseGuid>
+</TestCaseEntity>

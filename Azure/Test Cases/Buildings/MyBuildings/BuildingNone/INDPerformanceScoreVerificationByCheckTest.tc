@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Submit performance score verification for IND Building None</description>
+   <name>INDPerformanceScoreVerificationByCheckTest</name>
+   <tag>IND Submit Performance Verification</tag>
+   <comment></comment>
+   <testCaseGuid>5ae66d6c-9a14-484b-86e4-0d40e461e286</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Project admin can't be edited.</description>
+   <name>TeamVerifyProjectAdminCanNotEditTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>911b7519-9fe1-4571-a2e4-1f6976340605</testCaseGuid>
+</TestCaseEntity>

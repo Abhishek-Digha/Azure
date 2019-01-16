@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the meter and the data populated in that meter.</description>
+   <name>VerifyWasteMeterDataCreatedViaExcelTest</name>
+   <tag>Create Energy Meter</tag>
+   <comment></comment>
+   <testCaseGuid>dd9533db-ccbb-44bf-bf8a-6f63974df4c7</testCaseGuid>
+</TestCaseEntity>

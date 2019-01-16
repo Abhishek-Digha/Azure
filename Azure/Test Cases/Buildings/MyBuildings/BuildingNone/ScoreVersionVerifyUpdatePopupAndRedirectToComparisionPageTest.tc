@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User should get the popup if the scoreversion is old.
+ 2.Clicking on 'Learn More and Update' button should redirect to comparison page.</description>
+   <name>ScoreVersionVerifyUpdatePopupAndRedirectToComparisionPageTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23c58280-10c5-4b22-ac27-bcb33cf09a3b</testCaseGuid>
+</TestCaseEntity>

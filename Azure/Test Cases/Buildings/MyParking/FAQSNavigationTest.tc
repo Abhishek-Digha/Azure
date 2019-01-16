@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if FAQS takes to appropriate navigations.</description>
+   <name>FAQSNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61b23c53-3a1f-427c-9b01-491857a984f4</testCaseGuid>
+</TestCaseEntity>

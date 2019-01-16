@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the &quot;Service agreement&quot; pdf is enclosed with the details.</description>
+   <name>AgreementVerifyServiceAgreementPdfDetailsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bb030c2-c3ea-40ef-b9cd-1c17521487af</testCaseGuid>
+</TestCaseEntity>

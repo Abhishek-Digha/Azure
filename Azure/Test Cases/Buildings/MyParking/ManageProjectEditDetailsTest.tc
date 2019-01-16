@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if manage parking have ability  to edit &amp; save the  details after the refresh for below fields number of parking space , levels , website , description .</description>
+   <name>ManageProjectEditDetailsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0161d3a2-69fd-4e42-97ca-8ebbee88b3aa</testCaseGuid>
+</TestCaseEntity>

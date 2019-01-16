@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AppVerifyAllUninstalledAppRemovedFromAddSupportingSectionTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a17506b-c1b4-4d05-884b-fc872bdacf86</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Upload the file in the data input section supporting the readings inputted.</description>
+   <name>DataInputWasteFileUploadTest</name>
+   <tag>File Upload Data Input</tag>
+   <comment></comment>
+   <testCaseGuid>e683e25b-2801-4a73-908c-043d8f08487e</testCaseGuid>
+</TestCaseEntity>

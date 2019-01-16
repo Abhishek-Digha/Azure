@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if login &amp; navigate to cities with text working correclty</description>
+   <name>LoginWithCitesTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da9e46fa-49f4-4e6e-aa73-9ffec2c8d505</testCaseGuid>
+</TestCaseEntity>

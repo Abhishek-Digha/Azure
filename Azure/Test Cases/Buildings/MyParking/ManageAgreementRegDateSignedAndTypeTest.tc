@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Date Signed and type 'Registration' displayed.</description>
+   <name>ManageAgreementRegDateSignedAndTypeTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b69b4b66-b8d3-47f7-bc56-7fd032ded7bc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if only Portfolio Name should be mandatory field hence validation message should display.</description>
+   <name>ProtfoloNameMandatoryTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c154b0b4-a906-48c2-94bb-0d99d6b6aac0</testCaseGuid>
+</TestCaseEntity>

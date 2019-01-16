@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the default status of the city/comm credits in submit review page.</description>
+   <name>DefaultCreditStatusCityCommSubmitReviewTest</name>
+   <tag>Default credit status city/comm</tag>
+   <comment></comment>
+   <testCaseGuid>7c0f28ad-7221-4d19-ac4a-59e451c4ece3</testCaseGuid>
+</TestCaseEntity>

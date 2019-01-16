@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Registration payment for the building transit aboveground</description>
+   <name>RegistrationPaymentCCtest</name>
+   <tag>Payment By Credit Card</tag>
+   <comment></comment>
+   <testCaseGuid>2ddb0d53-1de7-4709-99f1-c28236057ecd</testCaseGuid>
+</TestCaseEntity>

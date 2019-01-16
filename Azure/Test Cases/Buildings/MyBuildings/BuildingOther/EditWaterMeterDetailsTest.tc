@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit the water meter details like Meter Name, Unit and fuel Source</description>
+   <name>EditWaterMeterDetailsTest</name>
+   <tag>Edit Water Meter</tag>
+   <comment></comment>
+   <testCaseGuid>0a621b72-0fd7-4f74-a48c-3efd8693bb98</testCaseGuid>
+</TestCaseEntity>

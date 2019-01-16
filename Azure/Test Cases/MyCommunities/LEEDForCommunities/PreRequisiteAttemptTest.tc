@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>community  Pre Requisite to  Attempt Test</description>
+   <name>PreRequisiteAttemptTest</name>
+   <tag>Pre Requisite</tag>
+   <comment></comment>
+   <testCaseGuid>dc7f8686-5794-4259-8133-0b78ed16ac32</testCaseGuid>
+</TestCaseEntity>

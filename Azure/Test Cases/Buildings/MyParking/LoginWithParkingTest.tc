@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify ability to login &amp; navigate to parking section.</description>
+   <name>LoginWithParkingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd7f1e3f-006a-4d16-886a-47c9784c7c17</testCaseGuid>
+</TestCaseEntity>

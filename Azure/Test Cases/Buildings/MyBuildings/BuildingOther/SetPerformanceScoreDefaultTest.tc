@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to Set Performance Score as Default page .</description>
+   <name>SetPerformanceScoreDefaultTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab6b4028-fb74-4ce8-9026-40a07715248a</testCaseGuid>
+</TestCaseEntity>

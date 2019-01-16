@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the navigation functionality of Total Score section by clicking each of the category score(Energy , Water , Waste, Transport , Human Experience)  ability to  redirect to redirect to respective analytics section .</description>
+   <name>NavigationTotalScoreToAnalyticsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0bc1c40-af6d-4b02-aad3-0f3b0b17cc1d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Water consumption of project annually (in gal).
+annual = daily water consumption * 365
+daily water consumption = sum (water consumption)/period (no of days)</description>
+   <name>AnnualWaterConsumption(gal)ProjectTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>087044c9-0703-42bb-a372-31a81c57f7de</testCaseGuid>
+</TestCaseEntity>

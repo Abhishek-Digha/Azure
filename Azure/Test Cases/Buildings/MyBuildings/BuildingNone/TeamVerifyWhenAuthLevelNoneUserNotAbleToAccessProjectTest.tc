@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TeamVerifyWhenAuthLevelNoneUserNotAbleToAccessProjectTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a86e6992-2e3d-48e5-ba1f-e539ea21711d</testCaseGuid>
+</TestCaseEntity>

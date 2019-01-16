@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify ability to add waste diversion reading on the year basis</description>
+   <name>CreateWastediversionMeterReadingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a7bc0ab-549c-4d50-aafa-778d430bd5c8</testCaseGuid>
+</TestCaseEntity>

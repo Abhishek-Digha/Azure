@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the credits marked for review with and team name assigned appears in this section -for city/community.</description>
+   <name>PrecertificationAssignTeamTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>311500f0-f23b-4636-b586-6ee0d6798429</testCaseGuid>
+</TestCaseEntity>

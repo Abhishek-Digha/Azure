@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability tocomplete the review payment by check &amp; submit successul review for India project.</description>
+   <name>INDPerformanceScoreRevPayByCheckTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d88b85b8-1a84-4b99-9da4-8a35c0f8c89d</testCaseGuid>
+</TestCaseEntity>

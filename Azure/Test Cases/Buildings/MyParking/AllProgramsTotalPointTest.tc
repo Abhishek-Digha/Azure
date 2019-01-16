@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the ability of all programs measure to produce  the total point based on the selected  requirement .</description>
+   <name>AllProgramsTotalPointTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad9360aa-32c4-49de-8e3a-99bc0e2c7304</testCaseGuid>
+</TestCaseEntity>

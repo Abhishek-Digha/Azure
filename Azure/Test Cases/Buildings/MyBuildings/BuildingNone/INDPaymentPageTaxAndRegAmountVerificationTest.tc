@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the Total amount and the tax application on india projects.</description>
+   <name>INDPaymentPageTaxAndRegAmountVerificationTest</name>
+   <tag>Verify the Tax amount and total amount</tag>
+   <comment></comment>
+   <testCaseGuid>3399dff1-333c-4b1f-811d-fc2b1008201c</testCaseGuid>
+</TestCaseEntity>

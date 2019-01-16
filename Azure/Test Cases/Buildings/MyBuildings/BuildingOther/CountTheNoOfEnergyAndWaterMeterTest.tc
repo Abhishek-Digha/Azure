@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Count the total no of energy and water meter created during the suit run.</description>
+   <name>CountTheNoOfEnergyAndWaterMeterTest</name>
+   <tag>Count Meter</tag>
+   <comment></comment>
+   <testCaseGuid>0b3077d4-ef57-4244-8fa2-cbf8ea411c8b</testCaseGuid>
+</TestCaseEntity>

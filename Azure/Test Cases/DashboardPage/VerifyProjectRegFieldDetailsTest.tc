@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Project Details page includes following fields Project Name , Unit Type, Space type , Owner Org , Owner email , Owner country ,
+area, address,city , country , state ,zipcode , geo-location , check box for service agreement , skip,next .</description>
+   <name>VerifyProjectRegFieldDetailsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeabcc6d-99f8-4b71-9fcc-adbaefd723fb</testCaseGuid>
+</TestCaseEntity>

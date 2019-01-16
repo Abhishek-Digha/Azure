@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify clicking on Credit/Actions shows All Actions , Prerequisites , Base Points , Data Inputs , My Actions and collapses to close the details.</description>
+   <name>CreditActionNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6e210e6-ea1c-44c8-9743-973c33446b34</testCaseGuid>
+</TestCaseEntity>

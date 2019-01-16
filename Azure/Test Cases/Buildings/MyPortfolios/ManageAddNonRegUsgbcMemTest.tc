@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if able to add non usgbc member .</description>
+   <name>ManageAddNonRegUsgbcMemTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f040876-3ece-49b6-b412-dd2660e270f8</testCaseGuid>
+</TestCaseEntity>

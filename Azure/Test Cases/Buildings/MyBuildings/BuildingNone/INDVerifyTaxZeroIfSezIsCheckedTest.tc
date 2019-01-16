@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the sez is clicked the IGST become zero.</description>
+   <name>INDVerifyTaxZeroIfSezIsCheckedTest</name>
+   <tag>Verify Tax is Zero if sez is checked</tag>
+   <comment></comment>
+   <testCaseGuid>c9ecf3a0-6c4e-4ef5-8187-00707a4b69a1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Parksmart resources takes to appropriate navigations.</description>
+   <name>ParksmartResourceNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd0195a7-5688-4ab9-afd2-26e6716ea360</testCaseGuid>
+</TestCaseEntity>

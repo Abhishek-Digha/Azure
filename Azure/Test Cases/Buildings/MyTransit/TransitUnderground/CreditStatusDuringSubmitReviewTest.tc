@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the status of the credits when they are marked Ready for review during submitting it for review.</description>
+   <name>CreditStatusDuringSubmitReviewTest</name>
+   <tag>Check Credit Status During Review Submit</tag>
+   <comment></comment>
+   <testCaseGuid>8996c987-3c6c-48d9-a574-63f1147fe0ca</testCaseGuid>
+</TestCaseEntity>

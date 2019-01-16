@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete the energy and water meter reading for the city and community</description>
+   <name>DeleteEnergyAndWaterMeterReadingTest</name>
+   <tag>Delete Meter Reading</tag>
+   <comment></comment>
+   <testCaseGuid>d8e00c85-668b-4b6a-8d43-fcdf5c475acd</testCaseGuid>
+</TestCaseEntity>

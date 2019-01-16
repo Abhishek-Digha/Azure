@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the agreement type is &quot;Addendum&quot; for LO synced projects.</description>
+   <name>AgreementVerifyLOprojectsAgreementTypeTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa76d889-4e63-4a63-990c-86431c7a3ccf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the carbon text area, calculating the carbon reduction, base line value and carbon goal calculation and we are also asserting the calculated data displaying with the manual calculation of data.</description>
+   <name>GoalCarbonTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>010862a6-419a-4ba1-95d2-c12c7f9c2978</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Everytime when testing using excel template, always download a fresh template and add data and upload the same. If downloaded through DI, upload in DI. If downloaded through Calculator, Upload in Calculator.</description>
+   <name>ProjectDownloadCalculatorTemplateAndUploadTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>255b44ae-15ea-4631-ab25-98ed603c08c9</testCaseGuid>
+</TestCaseEntity>

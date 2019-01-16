@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Project Registration page is open when add project is clicked on</description>
+   <name>ProjectRegPageTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc11e411-bc66-4b69-9499-5872eb635614</testCaseGuid>
+</TestCaseEntity>

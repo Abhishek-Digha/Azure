@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the logout functionlity of Arc.</description>
+   <name>LogoutToArcTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10ff6c7b-bf06-4141-8fdc-01401c8a8a3d</testCaseGuid>
+</TestCaseEntity>

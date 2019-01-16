@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Requisite and Base point file upload Transit</description>
+   <name>PrerequisiteAndBasepointFileUploadTest</name>
+   <tag>File Upload Pre Requisite and Base Point</tag>
+   <comment></comment>
+   <testCaseGuid>da06c0f1-5616-4e5a-8494-c486edf66ade</testCaseGuid>
+</TestCaseEntity>

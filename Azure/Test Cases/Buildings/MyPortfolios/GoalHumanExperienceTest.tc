@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying the carbon text area, and calculating the percentage Human Experience reduction, base line value and Human Experience goal calculation. And we are also asserting the calculated data displaying with the manual calculation of data.</description>
+   <name>GoalHumanExperienceTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d172efdd-ed66-4080-835e-7cfed419f9c1</testCaseGuid>
+</TestCaseEntity>

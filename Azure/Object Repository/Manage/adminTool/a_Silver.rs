@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Silver</name>
+   <tag></tag>
+   <elementGuidId>298ac143-bbbd-4224-beb6-f1f2bc059a72</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silver</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;col-md-6 ng-scope&quot;]/section[@class=&quot;widget&quot;]/div[@class=&quot;widget-body&quot;]/form[@class=&quot;form-horizontal ng-valid ng-dirty ng-valid-parse&quot;]/fieldset[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;dropdown display-inline ml10 open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;energy_unit&quot;]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>

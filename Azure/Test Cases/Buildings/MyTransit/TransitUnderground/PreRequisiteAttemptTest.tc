@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Building Transit Pre Requisite Attempt Test</description>
+   <name>PreRequisiteAttemptTest</name>
+   <tag>Pre Requisite</tag>
+   <comment></comment>
+   <testCaseGuid>da064819-93fb-4f0e-8ec0-1d579b093a61</testCaseGuid>
+</TestCaseEntity>

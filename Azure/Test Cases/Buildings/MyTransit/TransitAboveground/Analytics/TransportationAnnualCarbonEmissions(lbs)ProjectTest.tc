@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>carbon emission generated annually by commuters of the project by
+transport modes.
+Annual carbon emissions (lbs) (project) => Daily carbon emissions (lbs) (project) * project’s operational day
+Where, default operational days (for all the projects) = 313</description>
+   <name>TransportationAnnualCarbonEmissions(lbs)ProjectTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c338362a-9a09-4018-a449-6b08efcebd81</testCaseGuid>
+</TestCaseEntity>

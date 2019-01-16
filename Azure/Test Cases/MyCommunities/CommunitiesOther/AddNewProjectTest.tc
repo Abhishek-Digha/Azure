@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify ablility to register the new communities project.</description>
+   <name>AddNewProjectTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>370ff460-4540-475e-a404-960eba4b84d5</testCaseGuid>
+</TestCaseEntity>

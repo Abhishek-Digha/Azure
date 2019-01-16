@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify ability to add reading for Additional Details Meter &amp; total Point for Option B on the year basis.</description>
+   <name>BasePointADMeterOptionBPointTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c67453d3-2a67-493e-a54c-50b177c83fde</testCaseGuid>
+</TestCaseEntity>

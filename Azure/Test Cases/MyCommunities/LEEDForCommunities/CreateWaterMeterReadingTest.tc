@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to create new water meter with different reading &amp; saving functionality after refresh .</description>
+   <name>CreateWaterMeterReadingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bffa7df7-a9ca-49e1-b6fc-74ca3e68000c</testCaseGuid>
+</TestCaseEntity>

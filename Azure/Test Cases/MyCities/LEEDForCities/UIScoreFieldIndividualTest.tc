@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validating the fields for Individual performance score(Energy , Water , Waste , Transport , Human experience , Base point  ) &amp; we are also validating minimum &amp; maximum points for category score.</description>
+   <name>UIScoreFieldIndividualTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc2963d3-7a0a-4698-8aa2-d7b45b649919</testCaseGuid>
+</TestCaseEntity>

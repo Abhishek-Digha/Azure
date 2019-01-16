@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if feedback is allowing to add the comments and select the criteria and email is sent with feedback to the account.</description>
+   <name>FeedbackSubmitTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2af7d673-7b16-4cf9-b13e-153f64739a44</testCaseGuid>
+</TestCaseEntity>

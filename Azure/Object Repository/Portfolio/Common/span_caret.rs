@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_caret</name>
+   <tag></tag>
+   <elementGuidId>b7e1a141-a319-4614-a331-c227cebda522</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8&quot;]/section[@class=&quot;widget&quot;]/div[@class=&quot;no-footer&quot;]/table[@class=&quot;table table-striped table-hover&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;vertical-align-middle&quot;]/div[@class=&quot;dropdown display-inline open&quot;]/button[@class=&quot;btn dropdown-toggle btn-sm&quot;]/span[@class=&quot;caret&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

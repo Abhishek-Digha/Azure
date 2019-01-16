@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify authorization level Member can be changed.</description>
+   <name>TeamEditTeamMemberRole</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e27c9267-dc10-472b-baf9-bc782e0ba3bf</testCaseGuid>
+</TestCaseEntity>

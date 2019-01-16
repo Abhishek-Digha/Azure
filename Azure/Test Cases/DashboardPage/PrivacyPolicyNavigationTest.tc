@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check hyperlinks  in Login module for 'Privacy policy' clicking on the hyperlinks should redirect to correct webpage.</description>
+   <name>PrivacyPolicyNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>821fec88-4f60-464e-b491-0f83d17de35b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>water consumption of project per day against its gross_area (in sqft)
+daily consumption (per sqft) = daily consumption (in gal)/ gross_area (in sqft)</description>
+   <name>DailyWaterConsumption(gal)PerSqftTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a99b8aa7-a17b-4364-b5dd-fdf3de1037ba</testCaseGuid>
+</TestCaseEntity>

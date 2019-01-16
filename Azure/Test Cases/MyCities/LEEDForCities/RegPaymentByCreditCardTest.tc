@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to make registration payment by credit card.</description>
+   <name>RegPaymentByCreditCardTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba16d745-e6d1-43e2-82a9-5511d62ed402</testCaseGuid>
+</TestCaseEntity>

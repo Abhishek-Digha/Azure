@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To validate the credit card, whether it belongs to correct service provider or  not.</description>
+   <name>ValidateCreditCardsSubmitReviewPaymentTest</name>
+   <tag>Validate the Credit Cards</tag>
+   <comment></comment>
+   <testCaseGuid>bfda683e-b92c-43c3-85f4-c287d3b258cc</testCaseGuid>
+</TestCaseEntity>

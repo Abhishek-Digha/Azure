@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Highest/Lowest/Average Score: respective scores i.e. lowest, highest and its average can be checked/calculated from energy analysis Reporting period graph. (12 months score  form energy section ) 
+	Formula  : average = (12 month energy score)/12. Highest form 12 months score , Lowest form 12 months score .</description>
+   <name>TotalAnalyticsEnergyAnalyticsHighLowAvgScoreTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15f8a542-6339-4296-af00-77dbda5ea61f</testCaseGuid>
+</TestCaseEntity>

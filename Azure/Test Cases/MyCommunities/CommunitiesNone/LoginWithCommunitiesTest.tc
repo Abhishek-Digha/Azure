@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifies login &amp; navigate to communites &amp; verify communites the text.</description>
+   <name>LoginWithCommunitiesTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e17afa58-5e6a-4f4b-8ba4-d42295d92cf9</testCaseGuid>
+</TestCaseEntity>

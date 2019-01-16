@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Waste generate by the project on daily basis against its gross_area.
+Average daily waste generated (lbs)(per sqft) = daily waste generated/gross_area (in sqft)
+where, daily waste generated = sum(waste generated (in lbs))/period (no. Of days)</description>
+   <name>AverageDailyWasteGenerated(lbs)PerSqftTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1553b1bb-f523-4522-968e-9dc191d51b19</testCaseGuid>
+</TestCaseEntity>

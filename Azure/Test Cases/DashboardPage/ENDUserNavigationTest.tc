@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check hyperlinks  in Login module for End User License Agreement clicking on the hyperlinks should redirect to correct webpage.</description>
+   <name>ENDUserNavigationTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd63dc5d-bf65-454b-b427-763ad115a07f</testCaseGuid>
+</TestCaseEntity>

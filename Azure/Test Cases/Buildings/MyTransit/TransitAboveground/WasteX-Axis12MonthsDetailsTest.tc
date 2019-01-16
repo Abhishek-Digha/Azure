@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the label for X-axis will have 12 months details including months name compare to today’s month and field for the score &amp; months.</description>
+   <name>WasteX-Axis12MonthsDetailsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccd48c81-3dea-4373-98a2-be44b98fead5</testCaseGuid>
+</TestCaseEntity>

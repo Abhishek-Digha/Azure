@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if message prompts 'This credit will automatically display in your base score, but will have to undergo review by GBCI before being awarded&quot;when credit is marked ready for review.</description>
+   <name>BasePointPromptReviewToAttemptedTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce84f57d-5a6d-48f1-94f2-8f27af2cbe44</testCaseGuid>
+</TestCaseEntity>

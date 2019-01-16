@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_None</name>
+   <tag></tag>
+   <elementGuidId>c1ff3ab2-2b21-4d50-9da4-d647b51c0d9e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>None</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8&quot;]/section[@class=&quot;widget&quot;]/div[@class=&quot;no-footer&quot;]/table[@class=&quot;table table-striped table-hover&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;vertical-align-middle&quot;]/div[@class=&quot;dropdown display-inline open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;energy_unit&quot;]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>

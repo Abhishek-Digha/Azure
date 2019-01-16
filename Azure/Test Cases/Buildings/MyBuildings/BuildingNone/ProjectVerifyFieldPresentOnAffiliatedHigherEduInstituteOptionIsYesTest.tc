@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the field 'Name of the School' is visible, if option for 'Is project affiliated with a higher education institute?' chosen as 'Yes'</description>
+   <name>ProjectVerifyFieldPresentOnAffiliatedHigherEduInstituteOptionIsYesTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fefd3e1f-a5c1-4e65-9873-567c6eed126f</testCaseGuid>
+</TestCaseEntity>

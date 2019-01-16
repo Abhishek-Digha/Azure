@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the navigation functionality have ability to redirect form Individual Racetrack (Energy , Water , Waste, Transport , Human Experience)  to respective Analytics section .</description>
+   <name>NavigationIndividualRaceTrackToAnalyticsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>049a49c7-3766-47b7-8d83-2055cdf246ea</testCaseGuid>
+</TestCaseEntity>

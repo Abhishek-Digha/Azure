@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the Gross floor area  , occupancy , operating hour, Unit , Graph gross floor area, Graph occupancy , Graph operating hour after the upload Arc Data template and  Waste section has two line items &quot;Average daily waste generated (lbs)&quot; and &quot;Average daily waste diverted (lbs) displays correctly .</description>
+   <name>AnalyticVerifyAreaOppHourOccAfterArcDataTempUploadTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d88880dd-71b7-48b4-91b0-733d7aff4748</testCaseGuid>
+</TestCaseEntity>

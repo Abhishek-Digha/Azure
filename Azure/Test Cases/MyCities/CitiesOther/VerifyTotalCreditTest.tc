@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  the credit  &quot;Renewable Energy and Carbon Offsets&quot; is included for Buildings.</description>
+   <name>VerifyTotalCreditTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a2a3b91-739e-4d2a-abe8-c1c05a3e522e</testCaseGuid>
+</TestCaseEntity>

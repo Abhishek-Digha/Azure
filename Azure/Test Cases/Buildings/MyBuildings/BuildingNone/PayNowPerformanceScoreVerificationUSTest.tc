@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pay the certification review amount via check</description>
+   <name>PayNowPerformanceScoreVerificationUSTest</name>
+   <tag>Payment By Check</tag>
+   <comment></comment>
+   <testCaseGuid>36b8efee-5f6a-49e2-891f-3fea3d1aeb3c</testCaseGuid>
+</TestCaseEntity>

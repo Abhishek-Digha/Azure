@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the default loaded UI functionlity for performnce scroe without score based on the requriement .</description>
+   <name>UIScoreWithoutDataTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d01efade-9932-48c4-8816-1cd7a5175601</testCaseGuid>
+</TestCaseEntity>

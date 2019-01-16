@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CertificationLogo</name>
+   <tag></tag>
+   <elementGuidId>a4ea3f7f-09a9-4e38-9611-c4cdf5bcc1d6</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>cert.certification_level.toLowerCase() == 'platinum' || cert.certification_level.toLowerCase() == 'gold' || cert.certification_level.toLowerCase() == 'silver' || cert.certification_level.toLowerCase() == 'bronze' || cert.certification_level.toLowerCase() == 'certified'</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-src</name>
+      <type>Main</type>
+      <value>../../assets/images/leed_logo_small.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../assets/images/leed_logo_small.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;performance_report&quot;)/div[@class=&quot;performance_section_no_border width-100-perc pull-left mt20 overall_info&quot;]/table[@class=&quot;table certification_green&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;leed_logo_cert align-left&quot;]/img[@class=&quot;ng-scope&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

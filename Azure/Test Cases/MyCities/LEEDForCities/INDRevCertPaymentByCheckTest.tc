@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if ability to complete the check payment for India projects .</description>
+   <name>INDRevCertPaymentByCheckTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5485bdce-e6aa-4e58-b02d-6cda7e7cfb26</testCaseGuid>
+</TestCaseEntity>

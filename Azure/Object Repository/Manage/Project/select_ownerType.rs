@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ownerType</name>
+   <tag></tag>
+   <elementGuidId>4a5adb0b-a311-481e-9f79-022fd1c12f54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.//*[@id='ownerType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Business Improvement DistrictCommunity Development Corporation or Non-profit developerCorporate: Privately HeldCorporate: Publicly TradedEducational: College, PrivateEducational: College, PublicEducational: Community College, PrivateEducational: Community College, PublicEducational: Early Childhood Education/DaycareEducational: K-12 School, PrivateEducational: K-12 School, PublicEducational: University, PrivateEducational: University, publicGovernment Use: FederalGovernment Use: Local, CityGovernment Use: Local, Public Housing AuthorityGovernment Use: Other (utility, airport, etc.)Government Use: StateInvestor: BankInvestor: EndowmentInvestor: Equity FundInvestor: Individual/FamilyInvestor: Insurance CompanyInvestor: Pension FundInvestor: REIT, Non-tradedInvestor: REIT, Publicly tradedInvestor: ROECMain Street OrganizationNon-Profit (that do not fit into other categories)Religious</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>.//*[@id='ownerType']</value>
+   </webElementProperties>
+</WebElementEntity>
